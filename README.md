@@ -2,6 +2,8 @@
 
 > Durable record of Squad agent decisions, routing, and learning history.
 
+> 📖 **Full story**: [When Git Is Your Database — The Enterprise State Problem Nobody Warned Me About](https://tamirdresher.github.io/blog/2026/03/22/scaling-ai-part7-enterprise-state) — Part 7 of the [Scaling AI-Native Software Engineering](https://tamirdresher.github.io) series.
+
 ## What Is This?
 
 This repository is the **state ledger** for a Squad-powered code repository. It stores durable agent state that shouldn't live in your code PRs:
